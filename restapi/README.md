@@ -1,0 +1,1 @@
+Este es un video de un ejemplo de un api rest, utilizamos postman para los metodos http además de que extraimos datos de una pagina llamada jsonplaceholder y los mostramos en nuestro servidor
